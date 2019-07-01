@@ -47,6 +47,7 @@ group :development, :test do
   gem 'devise'
   gem 'jquery-rails'
   gem 'rspec-rails'
+  gem 'factory_bot_rails'
 end
 
 group :development do
